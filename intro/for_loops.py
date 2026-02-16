@@ -23,3 +23,18 @@ for char in "Samvel":
     print(char, end=" ")
 # By default, print() uses end="\n" (newline).
 # S a m v e l
+
+print()
+
+# No separator
+for char in "Samvel":
+    print(char, end="")
+
+# Samvel
+
+print()
+
+# Comma separator
+for char in "Samvel":
+    print(char, end=", ")
+# S, a, m, v, e, l,
