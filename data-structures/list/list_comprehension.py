@@ -18,6 +18,3 @@ print(items)
 items.sort(key=lambda item: item[0])  # sort by product name
 print(items)
 
-
-
-
