@@ -86,5 +86,6 @@ data.items()
 #     Python sees two variables on the left
 #     and a tuple of two elements on the right,
 #     and simply unpacks:
+#
 #         first element  -> first variable  (key)
 #         second element -> second variable (value)
