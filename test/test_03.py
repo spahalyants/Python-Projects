@@ -11,12 +11,13 @@ data = {
     "last_login": "2026-02-26T21:18:00-05:00",
 }
 
-print(1)
+del data["user_id"]
 
-list = [1, 2, 3]
-print(list)
+print(data)
 
-a = 10
+
+
+
 
 
 
