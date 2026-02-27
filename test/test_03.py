@@ -12,8 +12,15 @@ data = {
 }
 
 del data["user_id"]
-
 print(data)
+
+data['user_id'] = 1077
+print(data)
+
+print('Hello ' + 'Python')
+
+
+
 
 
 
